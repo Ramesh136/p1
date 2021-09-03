@@ -1,0 +1,77 @@
+body{
+    font-family:  Comic Sans MS, Comic Sans, cursive ;
+}
+
+
+
+#header {
+    width : 95%;
+    height: 50%;
+    background-color: bisque;
+    padding: 2.65%;
+    color: dimgray;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: flex;
+
+}
+h1{
+    text-align: left;
+    padding-left: 3%;
+    padding-bottom: 0%;
+}
+
+.row{
+
+    width : 98%;
+    height : 20%;
+    display: flex;
+
+
+}
+#para{
+    width : 30%;
+    height: 20%;
+    background-color: khaki;
+    color: black;
+    padding : 1.8%;
+    text-align: justify;
+    border-radius: 3% ;
+}
+a {
+    text-decoration: none;
+}
+
+
+img.thanks{
+    margin-left:1% ;
+    width: 7%;
+    height : 7%;
+
+}
+#para2{
+    margin-left: 3%;
+    width : 30%;
+    height: 10%;
+    background-color: khaki;
+    color: black;
+    padding : 1.8%;
+    text-align: justify;
+    border-radius: 3% ;
+}
+ 
+/* #angel
+{
+    margin-left: 2%;
+} */
+img.home {
+    width : 1.8%;
+    height : 1.8%;
+}
+img.docs{
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    width: 30%;
+    height: 30%;
+}
