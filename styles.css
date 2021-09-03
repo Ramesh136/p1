@@ -1,0 +1,87 @@
+body{
+    /* background: white; */
+    background-image: url('images/doc angel.jpg');
+    background-repeat: no-repeat;
+    background-size:50%;
+    /* opacity : 0.3; */
+    color :black;
+    /* text-align : center; */
+    font-family: Comic Sans MS, Comic Sans, cursive ;
+}
+
+
+p {
+    /* text-align: centre; */
+    /* border : 3px solid black; */
+     width: 47%;
+     margin-left : 800px;
+     text-align: justify;
+    /* height : 70%; */
+  }
+
+  p::first-letter {
+    color: #ff0000;
+    font-size: 200%;
+  }
+
+  iframe {
+
+    margin-left : 800px;
+
+  }
+
+  h1{
+     text-align:center;
+     display: inline-block;
+     /* border : 3px solid black ; */
+     /* border-radius : 55%; */
+      margin-left : 725px;
+     /* padding : 20px 50px; */
+     margin-top: 0%;
+     box-shadow : black;
+     text-align: centre ;
+     position: fixed;
+     /* width : 100%; */
+     /* background-color: antiquewhite; */
+     /* margin-bottom: 200px; */
+     
+     
+  }
+  h2{
+    /* text-align: centre; */
+    /* border : 3px solid black ; */
+    /* border-radius : 55%; */
+    margin-left : 800px;
+    margin-top: 50px;
+    /* padding : 20px 50px; */
+    box-shadow : black;
+    text-align: centre ;
+    position: relative;
+    /* width : 80%; */
+    
+ }
+  ul {
+    list-style-type: none;
+    margin-left : 800px;
+    padding: 0;
+    overflow: hidden;
+    /* background-color: #333; */
+    width : 18%;
+  }
+  
+  /* li {
+    float: left;
+  } */
+  
+  li a {
+    display: block;
+    color: black;
+    /* text-align: center; */
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: justify;
+  }
+  
+  li a:hover {
+    background-color: lightslategray;
+  }
