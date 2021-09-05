@@ -85,3 +85,12 @@ p {
   li a:hover {
     background-color: lightslategray;
   }
+  h3{
+    vertical-align: top;
+  }
+  img.home {
+    width : 3%;
+    height : 3%;
+    width: 2%;
+    display: inline;
+}
