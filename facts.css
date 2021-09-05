@@ -26,13 +26,13 @@ h1{
     width : 98%;
     height : 20%;
     display: flex;
-
+    margin-top: 3%;
 
 }
 #para{
     width : 30%;
     height: 20%;
-    background-color: khaki;
+    background-color: cyan;
     color: black;
     padding : 1.8%;
     text-align: justify;
@@ -51,6 +51,7 @@ img.thanks{
 }
 #para2{
     margin-left: 3%;
+    margin-right: 3%;
     width : 30%;
     height: 10%;
     background-color: khaki;
@@ -75,3 +76,4 @@ img.docs{
     width: 30%;
     height: 30%;
 }
+
