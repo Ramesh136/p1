@@ -1,7 +1,9 @@
 body{
     font-family:  Comic Sans MS, Comic Sans, cursive ;
 }
-
+h4{
+    text-align: left;
+}
 
 
 #header {
@@ -66,8 +68,9 @@ img.thanks{
     margin-left: 2%;
 } */
 img.home {
-    width : 1.8%;
-    height : 1.8%;
+    width : 3%;
+    height : 3%;
+    margin-right: 3%;
 }
 img.docs{
     margin-left: 3%;
@@ -76,4 +79,15 @@ img.docs{
     width: 30%;
     height: 30%;
 }
-
+table{
+    border-spacing: 2px;
+}
+.d4 {
+    background-color:grey;
+    padding: 10px;
+ 
+    left: 0px;
+    right: 0px;
+    top: 700px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
