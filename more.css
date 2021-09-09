@@ -7,6 +7,7 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     padding: 2%;
     text-transform: capitalize;
+    color: dimgray;
 
 }
 ol li img{
@@ -41,9 +42,9 @@ span{
     font-size: 120%;
 }
 
-li{
+li.doc{
     /* border: 1px solid black; */
-    background-color:darkgrey;
+    background-color:skyblue;
     width: 90%;
     border-radius: 8px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -54,13 +55,44 @@ h2{
     padding-left: 3%;
     padding-bottom: 2%;
     text-transform: uppercase;
+    /* color: dimgray; */
 }
 
 body{
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-family: Comic Sans MS, Comic Sans, cursive ;
 }
 
 #source{
     margin-left: 8%;
 
 }
+
+
+ul {
+    list-style-type: none;
+    /* margin-left : 800px; */
+    padding: 0;
+    overflow: hidden;
+    /* margin: auto; */
+    /* width : 18%; */
+  }
+  
+  
+  li a {
+    display: block;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: centre;
+    font-size: 130%;
+    /* float: left; */
+  }
+  li.more{
+    float: left;
+    /* display:inline; */
+  }
+
+  
+  li a:hover {
+    background-color: lightslategray;
+  }
