@@ -98,16 +98,17 @@ p {
     display: inline;
     vertical-align: middle;
 }
-/* 
+
 .d4 {
   background-color: #112031;
   padding: 10px;
   position: absolute;
   left: 0px;
   right: 0px;
-  top: 700px;
+  top: 900px;
   color : white;
-} */
+}
+
 video {
   margin-left: 52.2%;
   width: 30%;
