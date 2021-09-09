@@ -3,7 +3,8 @@
     background-color: blanchedalmond;
     /* border: 1px solid black; */
     /* width: 45%; */
-    margin: auto;
+    /* margin: auto; */
+    margin-top: 2%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     padding: 2%;
     text-transform: capitalize;
@@ -59,7 +60,8 @@ h2{
 }
 
 body{
-    font-family: Comic Sans MS, Comic Sans, cursive ;
+    /* font-family: Comic Sans MS, Comic Sans, cursive ; */
+    font-family: "Segoe Print", Times, serif;
 }
 
 #source{
